@@ -92,7 +92,7 @@
             The default authentiation credentials for remote deplt are username "admin" with no password To
             override credentials, dfine a server in settings.xml and activate it using the <server> element
           -->
-          <url>http://localhost:8080/manager</url>
+          <url>http://localhost:8081/manager</url>
         </configuration>
       </plugin>
     </plugins>
